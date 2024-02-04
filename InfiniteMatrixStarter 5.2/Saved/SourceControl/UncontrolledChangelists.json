@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/emilyshih/Documents/Unreal Projects/InfiniteStarterMatrix-5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/emilyshih/Documents/Unreal Projects/InfiniteStarterMatrix-5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/emilyshih/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/emilyshih/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/emilyshih/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
